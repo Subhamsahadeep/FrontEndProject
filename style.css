@@ -26,7 +26,7 @@ html, body{
 
 #home{
 	background: url(rollsback.jpg) no-repeat center center ;
-	background-attachment: scroll;
+	background-attachment: fixed;
 	display: table;
 	height: 100%;
 	position: relative;
@@ -87,9 +87,9 @@ html, body{
 
 #fixed{
 	background: url(background.jpg) no-repeat center center;
-	background-attachment:scroll; 
+	background-attachment:fixed; 
 	display:table;
-	height: 90%;
+	height: 60%;
 	position: relative;
 	width: 100%;
 	background-size: cover;
